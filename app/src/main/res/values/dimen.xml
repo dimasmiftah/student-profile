@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    text-->
+    <dimen name="txt_title">20sp</dimen>
+    <dimen name="txt_label">16sp</dimen>
+    <dimen name="txt_value">18sp</dimen>
+
+<!--    padding-->
+    <dimen name="activity_padding_vertical">40dp</dimen>
+    <dimen name="activity_padding_horizontal">28dp</dimen>
+    <dimen name="attribute_padding">16dp</dimen>
+
+<!--    boxes-->
+    <dimen name="profile_picture_square">120dp</dimen>
+    <dimen name="primary_attribute_square">60dp</dimen>
+
+</resources>

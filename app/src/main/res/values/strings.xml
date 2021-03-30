@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Student Profile</string>
+<!--    attribute values-->
+    <string name="app_name">Profil Mahasiswa</string>
     <string name="nama_lengkap">Dimas Miftahul Huda</string>
     <string name="nim">10118087</string>
     <string name="kelas">IF-2</string>
@@ -13,4 +14,18 @@
     <string name="lagu_favorit">Halu - Feby Putri</string>
     <string name="film_favorit">Haikyu!!</string>
     <string name="pekerjaan_impian">Software Engineer</string>
+
+<!--    attribute label-->
+    <string name="label_nim">NIM</string>
+    <string name="label_kelas">Kelas</string>
+    <string name="label_jenis_kelamin">Jenis Kelamin</string>
+    <string name="label_tempat_tanggal_lahir">Tempat, Tanggal Lahir</string>
+    <string name="label_alamat_rumah">Alamat Rumah</string>
+    <string name="label_golongan_darah">Golongan Darah</string>
+    <string name="label_makanan_kesukaan">Makanan Kesukaan</string>
+    <string name="label_minuman_kesukaan">Minuman Kesukaan</string>
+    <string name="label_hobi">Hobi</string>
+    <string name="label_lagu_favorit">Lagu Favorit</string>
+    <string name="label_film_favorit">Film Favorit</string>
+    <string name="label_pekerjaan_impian">Pekerjaan Impian</string>
 </resources>
