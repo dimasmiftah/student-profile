@@ -1,4 +1,16 @@
 <resources>
-    <string name="app_name">Hello World</string>
-    <string name="buttonText">Click Me</string>
+    <string name="app_name">Student Profile</string>
+    <string name="nama_lengkap">Dimas Miftahul Huda</string>
+    <string name="nim">10118087</string>
+    <string name="kelas">IF-2</string>
+    <string name="jenis_kelamin">Laki-laki</string>
+    <string name="tempat_tanggal_lahir">Sumedang, 1 Maret 2000</string>
+    <string name="alamat_rumah">Jl. Malaka 4 No. 42, Rorotan, Cilincing, Jakarta Utara</string>
+    <string name="golongan_darah">B (Kalau Tidak Salah)</string>
+    <string name="makanan_kesukaan">Nasi Putih</string>
+    <string name="minuman_kesukaan">Air Putih</string>
+    <string name="hobi">Nonton Film</string>
+    <string name="lagu_favorit">Halu - Feby Putri</string>
+    <string name="film_favorit">Haikyu!!</string>
+    <string name="pekerjaan_impian">Software Engineer</string>
 </resources>
